@@ -1,0 +1,7 @@
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe.config
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\bin\Debug\ConstData.pdb
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\obj\Debug\ConstData.exe
+D:\трпо практика\лаба 2 трпо\ConstData\ConstData\ConstData\obj\Debug\ConstData.pdb
