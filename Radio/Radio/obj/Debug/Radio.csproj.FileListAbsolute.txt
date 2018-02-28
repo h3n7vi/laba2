@@ -1,0 +1,12 @@
+I:\трпо практика\Radio\Radio\bin\Debug\Radio.exe.config
+I:\трпо практика\Radio\Radio\bin\Debug\Radio.exe
+I:\трпо практика\Radio\Radio\bin\Debug\Radio.pdb
+I:\трпо практика\Radio\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
+I:\трпо практика\Radio\Radio\obj\Debug\Radio.exe
+I:\трпо практика\Radio\Radio\obj\Debug\Radio.pdb
+I:\трпо практика\лаба 2 трпо\Radio\Radio\bin\Debug\Radio.exe.config
+I:\трпо практика\лаба 2 трпо\Radio\Radio\obj\Debug\Radio.exe
+I:\трпо практика\лаба 2 трпо\Radio\Radio\obj\Debug\Radio.pdb
+I:\трпо практика\лаба 2 трпо\Radio\Radio\bin\Debug\Radio.exe
+I:\трпо практика\лаба 2 трпо\Radio\Radio\bin\Debug\Radio.pdb
+I:\трпо практика\лаба 2 трпо\Radio\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
