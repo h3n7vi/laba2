@@ -1,0 +1,7 @@
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+D:\трпо практика\лаба 2 трпо\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
