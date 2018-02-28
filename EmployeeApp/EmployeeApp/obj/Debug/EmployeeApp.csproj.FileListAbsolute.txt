@@ -1,0 +1,7 @@
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+Z:\trpo prakt\laba2\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

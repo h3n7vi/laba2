@@ -1,0 +1,7 @@
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\трпо практика\лаба 2 трпо\EmployeeApp\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
