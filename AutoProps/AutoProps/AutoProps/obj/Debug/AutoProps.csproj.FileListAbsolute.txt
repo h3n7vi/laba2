@@ -1,0 +1,7 @@
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+D:\трпо практика\лаба 2 трпо\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.pdb
